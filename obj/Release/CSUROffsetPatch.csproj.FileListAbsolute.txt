@@ -1,0 +1,13 @@
+D:\Mod\CSUROffsetPatch\CSUROffsetPatch\bin\Release\CSUROffsetPatch.dll
+D:\Mod\CSUROffsetPatch\CSUROffsetPatch\bin\Release\CSUROffsetPatch.pdb
+D:\Mod\CSUROffsetPatch\CSUROffsetPatch\bin\Release\Assembly-CSharp.dll
+D:\Mod\CSUROffsetPatch\CSUROffsetPatch\bin\Release\ColossalManaged.dll
+D:\Mod\CSUROffsetPatch\CSUROffsetPatch\bin\Release\ICities.dll
+D:\Mod\CSUROffsetPatch\CSUROffsetPatch\bin\Release\UnityEngine.dll
+D:\Mod\CSUROffsetPatch\CSUROffsetPatch\bin\Release\PopsApiWrapper.dll
+D:\Mod\CSUROffsetPatch\CSUROffsetPatch\bin\Release\Assembly-CSharp-firstpass.dll
+D:\Mod\CSUROffsetPatch\CSUROffsetPatch\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Mod\CSUROffsetPatch\CSUROffsetPatch\obj\Release\CSUROffsetPatch.csproj.CopyComplete
+D:\Mod\CSUROffsetPatch\CSUROffsetPatch\obj\Release\CSUROffsetPatch.dll
+D:\Mod\CSUROffsetPatch\CSUROffsetPatch\obj\Release\CSUROffsetPatch.pdb
+D:\Mod\CSUROffsetPatch\CSUROffsetPatch\obj\Release\CSUROffsetPatch.csprojAssemblyReference.cache
